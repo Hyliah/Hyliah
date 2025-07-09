@@ -30,8 +30,8 @@
 | CIRCLE 00 | ✅ libft (100)|
 | CIRCLE 01 | ✅ get_next_line(101) | ✅ born2broot (100) | ✅ ft_printf (100) |
 | CIRCLE 02 | ✅ so_long (100) | ✅ push_swap (84) | ✅ minitalk(115) | ✅ Exam02 (100) |
-| CIRCLE 03 | ✅ minishell (100) | 🚧 Philosopher | | ✅ Exam03 (100) |
-| CIRCLE 04 | ◻️ cub3D | ◻️ NetPractice | ◻️ CPP00-04 | ◻️ Exam04 |
+| CIRCLE 03 | ✅ minishell (100) | 🚧 philosophers | | ✅ Exam03 (100) |
+| CIRCLE 04 | ◻️ cub3D | ◻️ netPractice | ◻️ CPP00-04 | ◻️ Exam04 |
 | CIRCLE 05 | ◻️ inception | ◻️ CPP05-09 | ◻️ webserv | ◻️ Exam05|
 | CIRCLE 06 | ◻️ ft_transcendence | | | ◻️ Exam06|
 
