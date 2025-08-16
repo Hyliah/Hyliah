@@ -14,7 +14,9 @@
 
 ✨ Developer student at [42](https://42lausanne.ch)
 
-✨ Multifaceted artist (digital, tattoo, oil painting) with a Bachelor in Art History
+✨ Multifaceted artist (digital, tattoo, oil painting) 
+✨ Bachelor in Art History
+✨ CFC in Polidesign 3D
 
 ---
 <h2 align="center">
