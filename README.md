@@ -18,7 +18,7 @@
 
 ✨ Bachelor in Art History
 
-✨ CFC in Polidesign 3D
+✨ CFC in Polydesign 3D
 
 ---
 <h2 align="center">
