@@ -36,6 +36,6 @@
 | CIRCLE 02 | ✅ so_long (100) | ✅ push_swap (84) | ✅ minitalk (115) | ✅ Exam02 (100) |
 | CIRCLE 03 | ✅ <a href="https://github.com/Hyliah/minishell">Minishell</a> (100) | ✅ philosophers (100) | | ✅ Exam03 (100) |
 | CIRCLE 04 | ✅ <a href="https://github.com/Hyliah/cub3D">Cub3D</a> (125) | ✅ netPractice (100) | ✅ <a href="https://github.com/Hyliah/CPP00-04">CPP00-04</a> (5x100)| ✅ Exam04 (100) |
-| CIRCLE 05 | ◻️ webserv | ◻️ inception | 🚧 <a href="https://github.com/Hyliah/CPP05-09">CPP05-09</a> | ✅ Exam05 (100)|
+| CIRCLE 05 | 🚧 <a href="https://github.com/Hyliah/WebServ">webserv</a> | ◻️ inception | 🚧 <a href="https://github.com/Hyliah/CPP05-09">CPP05-09</a> | ✅ Exam05 (100)|
 | CIRCLE 06 | ◻️ ft_transcendence | ◻️ 42_Collaborative_resume| | ◻️ Exam06|
 
